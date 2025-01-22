@@ -1,0 +1,7 @@
+/target/
+/test-output/
+/batch8_selenium_ecommerce.iml
+/.classpath
+/.idea
+/bin/
+debug.log

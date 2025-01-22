@@ -9,9 +9,7 @@ import org.openqa.selenium.TakesScreenshot;
 import utilities.DriverManager;
 import utilities.ThreadManager;
 
-import java.io.File;
 import java.io.IOException;
-import org.apache.commons.io.FileUtils;
 
 public class Hooks {
     DriverManager drivermanager = new DriverManager();

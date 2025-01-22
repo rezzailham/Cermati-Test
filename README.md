@@ -1,3 +1,10 @@
+# This Project Created With Selenium Java. 
+## Using Framework :
+- Cucumber
+- TestNG
+- Maven atau Gradle (Build Tool)
+- WebDriverManager
+
 # Result: <br> ![image](https://github.com/user-attachments/assets/28334444-c1be-4cd7-8db8-1a93f804927f)
 
 1. TC-1: Opening Website <br> ![image](https://github.com/user-attachments/assets/4b77798a-77fc-4a2e-959f-95215312b600)
